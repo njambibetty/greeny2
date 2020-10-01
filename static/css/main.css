@@ -1,0 +1,12 @@
+.row{
+    padding-left:200px;
+}
+.container-fluid{
+    background-color:#3cad23;
+    height:100px;
+    font-family: Brush Script Std;
+    text-align: center;
+}
+a{
+    color:black;
+}
